@@ -20,3 +20,24 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
 
  13 Oct 2020 10:30:06 PM
 
+Agustin Bernheim
+
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 10.0.2.15  netmask 255.255.255.0  broadcast 10.0.2.255
+        inet6 fe80::b93f:7faa:2683:89c7  prefixlen 64  scopeid 0x20<link>
+        ether 08:00:27:5a:f5:c3  txqueuelen 1000  (Ethernet)
+        RX packets 16441  bytes 14507519 (14.5 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 7870  bytes 923093 (923.0 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 888  bytes 94772 (94.7 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 888  bytes 94772 (94.7 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+22 Oct 2020 10:39:50 PM
