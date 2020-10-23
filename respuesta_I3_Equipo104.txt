@@ -1,5 +1,0 @@
-a- Queda con archivos sobreescritos y fucionados con las ramas creadas en el ejercicio.
-
-b-Si.
-
-c-git pull y git checkout main, git merge Bernheim.
