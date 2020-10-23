@@ -42,3 +42,23 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
 Fri 23 Oct 2020 07:49:10 AM EDT
+Rodolfo Solari
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 172.31.52.49  netmask 255.255.240.0  broadcast 172.31.63.255
+        inet6 fe80::d688:e705:7597:8a8d  prefixlen 64  scopeid 0x20<link>
+        ether 08:00:27:a1:f8:7d  txqueuelen 1000  (Ethernet)
+        RX packets 38457  bytes 55781100 (55.7 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 4332  bytes 492926 (492.9 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 557  bytes 53227 (53.2 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 557  bytes 53227 (53.2 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+Fri 23 Oct 2020 07:58:30 AM EDT
