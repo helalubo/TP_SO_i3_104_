@@ -16,3 +16,15 @@ f- Pasos:
 	- git commit -m "Commit Gamma"
 	- git push 
 
+
+g_ Pasos para el punto 8:
+
+git clone -b DeMoraiz https://github.com/helalubo/TP_SO_i3_104_
+cd TP_SO_i3_104_
+echo "Rodolfo Solari" >> TP_SO_i3_104_/beta.txt
+ifconfig >> TP_SO_i3_104_/beta.txt
+date >> TP_SO_i3_104_/beta.txt
+git status
+git add .
+git commit -m "ALFA: modificado archivo beta.txt"
+git push origin DeMoraiz
